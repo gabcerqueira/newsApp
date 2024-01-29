@@ -1,66 +1,31 @@
-![image](https://user-images.githubusercontent.com/3481514/145904252-92e3dc1e-591f-410f-88a1-b4250f4ba6f2.png)
+# News Reader App
 
-# getting started
+Welcome to the News Reader App, a versatile news application built using the hexagonal architecture. This app allows you to read news articles conveniently via a web view. Check out the demo video for a quick overview.
 
-```sh
-npx create-expo-app --template expo-template-storybook AwesomeStorybook
-```
+## Table of Contents
 
-or
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Demo Video](#demo-video)
 
-```sh
-yarn create expo-app --template expo-template-storybook AwesomeStorybook
-```
+## Installation
 
-# app
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/news-reader-app.git
+
+Usage
+Open the app in your web browser.
+Explore different news categories.
+Click on a news article to read it in the integrated web view.
+Features
+Hexagonal architecture for a modular and scalable design.
+Browse news articles by category.
+Read full articles seamlessly with the integrated web view.
 
 
-```sh
-yarn start
-```
 
-# Ondevice    
 
-In this template you can now run `yarn storybook` to start ondevice storybook or `yarn start` to start your expo app.
-This works via env variables and expo constants.
-
-```sh
-# either
-yarn storybook
-
-# ios
-yarn storybook:ios
-
-# android
-yarn storybook:android
-```
-
-If you add new stories on the native (ondevice version) you either need to have the watcher running or run the stories loader
-
-To update the stories one time
-
-```sh
-yarn storybook-generate
-```
-
-To watch the stories files
-
-```sh
-yarn storybook-watch
-```
-
-Note that this is only necessary for when you add or remove a story file.
-
-# Web
-
-Start react native web storybook:
-
-```
-yarn storybook:web
-```
-
-build react native web storybook:
-
-```sh
-yarn build-storybook
-```
+[![News Reader App Demo](https://example.com/path-to-demo-thumbnail.png)]([https://www.youtube.com/watch?v=your-demo-video-id](https://drive.google.com/file/d/1A7yPzsXj8lL-hKVtvGypvV6jjUB574EV/view?usp=sharing)https://drive.google.com/file/d/1A7yPzsXj8lL-hKVtvGypvV6jjUB574EV/view?usp=sharing)
