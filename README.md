@@ -29,3 +29,9 @@ Read full articles seamlessly with the integrated web view.
 
 
 [![News Reader App Demo](https://example.com/path-to-demo-thumbnail.png)]([https://www.youtube.com/watch?v=your-demo-video-id](https://drive.google.com/file/d/1A7yPzsXj8lL-hKVtvGypvV6jjUB574EV/view?usp=sharing)https://drive.google.com/file/d/1A7yPzsXj8lL-hKVtvGypvV6jjUB574EV/view?usp=sharing)
+
+<video width="640" height="360" controls>
+  <source src="[https://www.example.com/path-to-your-video.mp4](https://drive.google.com/file/d/1A7yPzsXj8lL-hKVtvGypvV6jjUB574EV/view?usp=sharing)https://drive.google.com/file/d/1A7yPzsXj8lL-hKVtvGypvV6jjUB574EV/view?usp=sharing)https://drive.google.com/file/d/1A7yPzsXj8lL-hKVtvGypvV6jjUB574EV/view?usp=sharing)https://drive.google.com/file/d/1A7yPzsXj8lL-hKVtvGypvV6jjUB574EV/view?usp=sharing" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
