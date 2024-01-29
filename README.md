@@ -1,6 +1,3 @@
-It seems there are some formatting issues in your Markdown code. I've adjusted it to correctly include the video link and embed the video. Also, I've used the Google Drive video link assuming it's a shareable link.
-
-```markdown
 # News Reader App
 
 Welcome to the News Reader App, a versatile news application built using the hexagonal architecture. This app allows you to read news articles conveniently via a web view. Check out the demo video for a quick overview.
@@ -20,6 +17,19 @@ Welcome to the News Reader App, a versatile news application built using the hex
    git clone https://github.com/your-username/news-reader-app.git
    ```
 
+2. Go to the folder news-app-backend
+
+   ```bash
+   docker-compose up
+   ```
+3. Run the app by going to news-app-frontend
+     ```bash
+   yarn start
+   ```
+     
+   ```bash
+   yarn android
+   ```
 ## Usage
 
 1. Open the app in your web browser.
