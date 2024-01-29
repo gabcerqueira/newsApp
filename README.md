@@ -34,11 +34,12 @@ Welcome to the News Reader App, a versatile news application built using the hex
 
 ## Demo Video
 
-Click the link to watch the demo.
+[![News Reader App Demo]](https://drive.google.com/file/d/1A7yPzsXj8lL-hKVtvGypvV6jjUB574EV/view?usp=sharing)
+
+Click the image above to watch the demo.
 
 <video width="640" height="360" controls>
   <source src="https://drive.google.com/uc?export=download&id=1A7yPzsXj8lL-hKVtvGypvV6jjUB574EV" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ```
-
